@@ -1,15 +1,29 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+# Directorios y archivos de compilación
+/.gradle/
+/.idea/
+/build/
+/app/build/
+/*.iml
+
+# Archivos de sistema
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+Thumbs.db
+*.log
+*.swp
+
+# Archivos generados por Android Studio
+/local.properties
+/captures/
+/outputs/
+/intermediates/
+
+# Archivos de configuración del entorno
+.env
+.env.local
+
+# Seguridad: NO subir google-services.json (Firebase)
+app/google-services.json
+
+# Seguridad: NO subir claves API
+app/src/main/res/values/secrets.xml
+
