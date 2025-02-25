@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">mvvm-damd</string>
+    <string name="acceder">Acceder</string>
+    <string name="no_tienes_cuenta_registrate_ahora">No tienes Cuenta? Registrate ahora</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">password</string>
+    <string name="repit_password">repit password</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_cuenta_acceder">ya tienes cuenta? Acceder</string>
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Cerrar Menu</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="user_icon">User icon</string>
+    <string name="configuration">Configuration</string>
+    <string name="close_session">Close Session</string>
+    <string name="perfil">Perfil</string>
+    <string name="inicio">Inicio</string>
+    <string name="en_cartelera">En Cartelera</string>
+    <string name="populares">Populares</string>
+    <string name="mejor_valoradas">Mejor Valoradas</string>
+    <string name="proximamente">Proximamente</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="tmdb_api_key">df955c604203b808024ead4932ee8360</string>
+    <string name="select_favorite_button">Select favorite button</string>
+    <string name="movie_photo">Movie Photo</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="favorite_movie_poster">Favorite Movie Poster</string>
+    <string name="mis_favoritos">Mis Favoritos</string>
+
+</resources>

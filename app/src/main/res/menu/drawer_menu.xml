@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_now_playing"
+            android:icon="@drawable/ic_live"
+            android:title="@string/en_cartelera" />
+
+        <item
+            android:id="@+id/nav_popular"
+            android:icon="@drawable/ic_premium"
+            android:title="@string/populares" />
+
+        <item
+            android:id="@+id/nav_top_rated"
+            android:icon="@drawable/ic_graphic"
+            android:title="@string/mejor_valoradas" />
+
+        <item
+            android:id="@+id/nav_upcoming"
+            android:icon="@drawable/ic_new"
+            android:title="@string/proximamente" />
+
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_estrella_llena"
+            android:title="@string/mis_favoritos" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="@string/close_session" />
+
+
+</menu>
