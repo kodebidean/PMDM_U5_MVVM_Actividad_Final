@@ -97,7 +97,7 @@ Este proyecto es de código abierto bajo la licencia **MIT**.
 ---
 
 ## **Desarrollado por**
-** ImaMultidev** - [MiPortfolio](https://imamultidev.dev/)
+**ImaMultidev** - [MiPortfolio](https://imamultidev.dev/)
 
 <div align="center">
   <h2>📫 Conecta conmigo</h2>
