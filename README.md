@@ -97,7 +97,30 @@ Este proyecto es de código abierto bajo la licencia **MIT**.
 ---
 
 ## **Desarrollado por**
-- ** ImaMultidev** - [GitHub](https://github.com/kodebidean)
-```
+** ImaMultidev** - [MiPortfolio](https://imamultidev.dev/)
 
+<div align="center">
+  <h2>📫 Conecta conmigo</h2>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/"  target="_blank" rel="noopener noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  target="_blank" rel="noopener noreferrer" width="50" height="50" alt="LinkedIn"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.com/users/tu-discord-id">
+            <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"  target="_blank" rel="noopener noreferrer" width="50" height="50" alt="Discord"/>
+          </a>
+        </td>
+        <td>
+          <a href="mailto:contact@imamultidev.dev">
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="Email Profesional"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 ---
