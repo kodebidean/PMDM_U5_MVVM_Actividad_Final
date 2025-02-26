@@ -4,7 +4,7 @@
 /build/
 /app/build/
 /*.iml
-
+app/google-services.json
 # Archivos de sistema
 .DS_Store
 Thumbs.db
